@@ -1,0 +1,11 @@
+.txtBox {
+  padding: 10px;
+  font-size: 20px;
+}
+.btn {
+  border: none;
+  background: #333;
+  color: #fff;
+  border-radius: 3px;
+  padding: 5px;
+}
